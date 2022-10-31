@@ -15,9 +15,9 @@ There are two modalities:
 
 The code works as follows:
 
-QBRIX <input_image> <quantile> <modality> <dir_out>
+QBRIX <input_image> <quantile> <mode> <dir_out>
 
-where <input_image> is the image to be enhanced; <quantile> is the quantile to be specified for the enhancement; <modality> is -1 for Global QBRIX, while is 1 for Local QBRIX; <dir_out> is the directory where to save the output image. 
+where <input_image> is the image to be enhanced; <quantile> is the quantile to be specified for the enhancement; <mode> is -1 for Global QBRIX, while is 1 for Local QBRIX; <dir_out> is the directory where to save the output image. 
 The value <quantile> ranges over [0, 100], but recommended values for this quantile are greater or equal than 90.
 Too low values are not recommended, since thay may generate saturation.  When the quantile equals 100, QBRIX implements the scale-by-max algorithm, which is a limit case of Retinex.
 
