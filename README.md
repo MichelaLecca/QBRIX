@@ -26,3 +26,4 @@ The complexity of Local QBRIX is quadratic with the number of image pixels, thus
 
 
 
+![qbrix](https://user-images.githubusercontent.com/82895709/199037206-ef4a43b4-c91a-4a9e-9aeb-ddb8ae5c83fa.png)
