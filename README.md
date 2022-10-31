@@ -2,6 +2,7 @@
 An implementation of "QBRIX : a quantile-based approach to Retinex" by Gianini, Manenti and Rizzi (JOSA A, 2014) 
 
 This code implements the Milano Retinex algorithm QBRIX for enhancing color images, published here:
+
 Gabriele Gianini, Andrea Manenti, and Alessandro Rizzi, "QBRIX: a quantile-based approach to Retinex," J. Opt. Soc. Am. A 31, 2663-2673 (2014), DOI:10.1364/JOSAA.31.002663
 
 
